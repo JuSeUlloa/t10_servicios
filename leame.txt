@@ -1,0 +1,12 @@
+----------------------------------------------------------
+------------             1. Librerias         ------------
+----------------------------------------------------------
+
+npm i @fortawesome/fontawesome-free
+npm i bootstrap
+npm i react-bootstrap
+npm i react-datepicker
+npm i react-router-dom
+npm i react-toastify
+
+
